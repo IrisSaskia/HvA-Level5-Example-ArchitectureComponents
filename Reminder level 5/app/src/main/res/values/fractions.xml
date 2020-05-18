@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <fraction name="drieKwartPercentage">0.75</fraction>
+    <fraction name="floatLeftInput">0</fraction>
+</resources>
